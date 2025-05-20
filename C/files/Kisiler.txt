@@ -1,0 +1,34 @@
+Astronot01#21#70#Orion-X2
+Astronot02#21#70#Orion-X2
+Astronot03#21#100#Orion-X2
+Astronot04#21#910#AstraNova 
+Astronot05#21#110#AstraNova 
+Astronot06#21#300#XYRON-B1
+Astronot07#21#910#XYRON-B1
+Astronot08#21#2600#XYRON-B1
+Astronot09#21#200#VegaPro-12
+Astronot10#21#240#VegaPro-12
+Astronot11#21#340#Lyra9B
+Astronot12#21#710#Lyra9B
+Astronot13#21#240#Lyra9B
+Astronot14#21#1600#Lyra9B
+Tanimsiz01#21#1600#CosmoProbe
+Tanimsiz02#21#240#CosmoProbe
+Tanimsiz03#21#1010#CosmoProbe
+Tanimsiz04#21#710#CosmoProbe
+Tanimsiz05#21#710#CosmoProbe
+Astronot20#21#910#Helios-3A
+Astronot21#21#1010#Helios-3A
+Astronot22#21#710#Helios-3A
+Astronot23#21#710#Helios-3A
+Android01#21#4200#Helios-3A
+Android02#21#1010#Helios-3A
+Android03#21#6710#Helios-3A
+Android04#21#6710#Titan F11C
+Android05#21#4200#Titan F11C
+Android06#21#1010#Titan F11C
+Android07#21#710#Crimson-4o
+Android08#21#240#Crimson-4o
+Android09#21#1910#AltairOne
+Android10#21#1010#AltairOne
+Android11#21#240#AltairOne
